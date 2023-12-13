@@ -1,0 +1,17 @@
+h4{
+    color:forestgreen;
+    font-family:'Helvetica', sans-serif;
+    font-weight: bold;
+    font-size: 19px}
+ol li{text-decoration: underline;}
+
+ul li {text-decoration: none;}
+
+.border {border: 2px solid #333;
+padding:5px; }
+
+.para {
+    color: darkorchid;
+    font-size: 17px;}
+
+.cursive {font-style: italic;}
